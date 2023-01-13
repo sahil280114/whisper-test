@@ -1,4 +1,4 @@
-# 🍌 Banana Serverless Whisper Template
+# 🍌 Banana Serverless Whisper Templatefsfsd
 
 This repo gives a basic framework for servidsdsng OpenAI's Whisper in production using simple HTTP servers.
 
