@@ -5,7 +5,7 @@ fdsf
 If you want to generalize this to deploy anything on Banana, [see the guide here](https://www.notion.so/banana-dev/How-To-Serve-Anything-On-Banana-125a65fc4d30496ba1408de1d64d052a).
 
 Look at `test.py` for instructions on how to call this model on locally as well as deployed on banana.
-
+t
 
 ## Move to prod:
 
