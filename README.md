@@ -6,7 +6,7 @@ If you want to generalize this to deploy anything on Banana, [see the guide here
 
 Look at `test.py` for instructions on how to call this model on locally as well as deployed on banana.
 t
-
+d
 ## Move to prod:
 
 At this point, you have a functioning http server for your ML model. You can use it as is, or package it up with our provided `Dockerfile` and deploy it to your favorite container hosting provider!
