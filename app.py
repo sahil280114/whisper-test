@@ -15,19 +15,9 @@ def init():
 # Reference your preloaded global model variable here.
 def inference(model_inputs:dict) -> dict:
     global pipe
-
-    # Parse out your arguments
-    mp3BytesString = model_inputs.get('mp3BytesString', None)
-    if mp3BytesString == None:
-        return {'message': "No input provided"}
+    s = os.getenv("BA","not present")
     
-    mp3Bytes = BytesIO(base64.b64decode(mp3BytesString.encode("ISO-8859-1")))
-    with open('input.mp3','wb') as file:
-        file.write(mp3Bytes.getbuffer())
+    output = {"text":s}
     
-    # Run the model
-    result = model.transcribe("input.mp3")
-    output = {"text":result["text"]}
-    os.remove("input.mp3")
     # Return the results as a dictionary
     return output
