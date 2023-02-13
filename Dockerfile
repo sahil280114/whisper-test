@@ -2,7 +2,7 @@
 FROM pytorch/pytorch:1.11.0-cuda11.3-cudnn8-runtime
 
 WORKDIR /
-
+ARG test
 # Install git
 RUN apt-get update && apt-get install -y git ffmpeg
 
@@ -22,7 +22,7 @@ RUN python3 download.py
 
 # Add your custom app code, init() and inference()
 ADD app.py .
-
+ENV BA=test
 EXPOSE 8000
 
 CMD python3 -u server.py
