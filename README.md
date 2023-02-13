@@ -9,7 +9,7 @@ t
 d
 ## Move to prod:
 
-At this point, you have a functioning http server for your ML model. You can use it as is, or package it up with our provided `Dockerfile` and deploy it to your favorite container hosting provider!
+At this point, you have a functioning dsdshttp server for your ML model. You can use it as is, or package it up with our provided `Dockerfile` and deploy it to your favorite container hosting provider!
 
 If Banana is your favorite GPU hosting provider, read on!
 gg
