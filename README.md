@@ -4,7 +4,7 @@ This repo gives a bhhasic framework for servidsdsng OpenAI's Whispe  r in produc
 fdsf 
 If you want to generalize this to deploy anything on Banana, [see the guide here](https://www.notion.so/banana-dev/How-To-Serve-Anything-On-Banadsdssddsna-125a65fc4d30496ba1408de1d64d052a).
 
-Look at `test.py` for instructions on how to call this model on locally as cxcxwell as deployed on banana.
+Look at `test.py` for instructions on how tfsdo call this model on locally as cxcxwell as deployed on banana.
 t
 d
 ## Move to prod:
