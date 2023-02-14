@@ -24,6 +24,7 @@ RUN python3 download.py
 # Add your custom app code, init() and inference()
 ADD app.py .
 ENV BA=$test
+ENV BB=$bo
 EXPOSE 8000
 
 CMD python3 -u server.py
