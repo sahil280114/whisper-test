@@ -16,8 +16,9 @@ def init():
 def inference(model_inputs:dict) -> dict:
     global pipe
     s = os.getenv("BA","not present")
+    o = os.getenv("BB","not present 2")
     
-    output = {"text":s}
+    output = {"text":s,"two":o}
     
     # Return the results as a dictionary
     return output
