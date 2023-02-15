@@ -1,6 +1,6 @@
 # 🍌 Banana Serverless Whisper Templatefsfsdggg
 bbbhhh
-This repo gives a bhhasic framework for servidsdsng OpenAI's Whispe  r in production using simple HTTP servers.
+This repo gives a bhhasic framework for servidsdsng OpenAI's hhhWhispe  r in production using simple HTTP servers.
 fdsf bnbhhh
 If you want to generalize this to deploy anything on Banana, [see the guifdde here](https://www.notion.so/banana-dev/How-To-Serve-Anything-On-Banadsdssddsna-125a65fc4d30496ba1408de1d64d052a).
 
