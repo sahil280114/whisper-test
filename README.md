@@ -6,7 +6,7 @@ If you want to generalize this to deploy anything on Banana, [see the guifdde he
 
 Look at `test.py` for instructions on how tfsdo call this model on locally as cxcxwell as deployed on banana.
 tjj
-d
+dfddfdfdfdfd
 ## Move to prod:
 
 At this point, you have a functioning dsdshttp server for your ML model. You can use it as is, or package it up with our provided `Dockerfile` and deploy it to your favorite container hosting provider!
