@@ -1,4 +1,4 @@
-# 🍌 Banana Serverless Whisper Templatefsfsdggg
+# 🍌 Banana Serverless Whisper Templatefsfsdggghh
 bbbhhh
 This repo gives a bhhhhhhhasic framework for servidsdsng OpenAIhhh'shh hhhWhispe  r in production using suuimple bhHTTP servers.e
 fdsf bnbhhhhhhhhhbb
