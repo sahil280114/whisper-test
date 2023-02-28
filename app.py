@@ -18,7 +18,7 @@ def inference(model_inputs:dict) -> dict:
     s = os.getenv("BA","not present")
     o = os.getenv("BB","not present 2")
     
-    output = {"reply":"new model updated"}
+    output = {"reply":"new model updated again hoora"}
     
     # Return the results as a dictionary
     return output
