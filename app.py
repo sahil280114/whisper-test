@@ -4,6 +4,7 @@ import os
 import base64
 from io import BytesIO
 
+
 # Init is ran on server startup
 # Load your model to GPU as a global variable here using the variable name "model"
 def init():
