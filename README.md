@@ -2,7 +2,7 @@
 bbbhhh
 This repo gives a bhhhhhhhahhsic framework for servidsdhhsng OggpenAIhhh'shh hhhWhispe  r in productionh using suuimple bhHTTP servers.eh
 fdsf bnbhhhhhhhhhbbjj
-If you want to generalize this to deploy anything on Banana, fsfdd[see thcce guifdde here](htdsdstps://rtwww.not bbion.so/banana-dev/How-To-Serve-Anything-On-Banadsdssddsna-nnnn125a65fc4d30496ba1408de1d64d052a).
+If you want to generalize this to deploy anything on Banana, fsfdd[see thcce guifdde here](htdsdstps://rtwww.not bbion.so/ffbanana-dev/How-To-Serve-Anything-On-Banadsdssddsna-nnnn125a65fc4d30496ba1408de1d64d052a).
 dsvxc
 Look at `test.py` for instructions on how tfsdo call this model on locally fdas cxcxwell fsdfsas deployed on banana.
 tjjfsd
